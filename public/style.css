@@ -1,0 +1,8 @@
+.jumbotron {
+    background-color: darkgray;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Cinzel Decorative', cursive;
+    margin-bottom: -10px;
+    /*  font-family: 'Fredericka the Great', cursive; */
+}
