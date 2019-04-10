@@ -1,8 +1,8 @@
 {
-  "name": "reacttest",
+  "name": "winterclicky",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://anniekay825.github.io/ClickyWinter",
+  "homepage": "https://anniekay825.github.io/WinterClicky",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
